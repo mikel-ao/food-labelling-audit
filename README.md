@@ -26,7 +26,7 @@ foodfacts/
 
 ### Hipótesis 1 (NutriScore): El sistema NutriScore no refleja adecuadamente la calidad nutricional real de los productos, ya que se basa principalmente en los ingredientes y nutrientes declarados pero no considera el grado de procesamiento de los alimentos.
 
-### Hipótesis 2 (Etiquetado ‘Bio’/Orgánico): Los productos con etiqueta “Bio” u “Orgánica” no presentan un perfil nutricional significativamente mejor (en valores de grasa, azúcar o sal) que sus equivalentes convencionales.
+### Hipótesis 2 (Etiquetado ‘Bio’): Los productos con etiqueta “Bio” no presentan un perfil nutricional significativamente mejor (en valores de grasa, azúcar o sal) que sus equivalentes convencionales.
 
 ### Hipótesis 3 (Marcas blancas vs multinacionales): En general, las marcas blancas ofrecen productos con un perfil nutricional más equilibrado que las grandes multinacionales dentro de las mismas categorías alimentarias.
 
