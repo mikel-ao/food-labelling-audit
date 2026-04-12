@@ -24,11 +24,14 @@ foodfacts/
 
 # Hipótesis planteadas
 
-### H1 (Nutri-Score vs. NOVA): El algoritmo Nutri-Score es ciego al grado de procesamiento industrial, permitiendo que productos ultraprocesados obtengan calificaciones de excelencia (A/B).
+### H1 (Nutri-Score vs. NOVA): El algoritmo Nutri-Score reduce la calidad de un alimento a sus macronutrientes 
+permitiendo que productos ultraprocesados obtengan buenas calificaciones (A/B).
 
-### H2 (Efecto Halo 'Bio'): El etiquetado “Bio” certifica el origen y la sostenibilidad (Eco-Score), pero no garantiza un producto menos procesado que el convencional.
+### H2 (Efecto Halo 'Bio'): El etiquetado “BIO” hace pensar al consumidor que el producto es mas saludable,
+pero no necesariamente es más nutritivo o menos procesado.
 
-### H3 (MDD vs. Multinacionales): Las MDD actúan como vectores de saludabilidad, ofreciendo perfiles nutricionales más equilibrados y menor carga de aditivos que las grandes corporaciones.	
+### H3 (Marcas de distribuidor vs. Grandes corporaciones): Las marcas blancas ofrecen perfiles nutricionales más 
+equilibrados y menor carga de aditivos que las grandes corporaciones.
 
 ### H4 (Mercado Cárnico vs. Plant-based): En países de alta cultura ganadera, la oferta vegetal presenta mayor procesamiento tecnológico y menor densidad proteica para mimetizar la experiencia cárnica.
 
