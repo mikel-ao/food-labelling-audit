@@ -6,7 +6,7 @@ Este proyecto realiza una auditoría multidimensional del sistema alimentario ac
 
 A través del análisis de ~10.000 productos extraídos de Open Food Facts y datos de producción de la FAO, este trabajo utiliza técnicas de Data Science para validar si los sellos de calidad actuales reflejan la realidad biológica de los alimentos o si son vulnerables al marketing nutricional.
 
-# 🚀 Tecnologías y Herramientas
+# 💾 Tecnologías y Herramientas
 
 * Lenguaje: Python 3.11+
   
