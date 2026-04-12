@@ -1,5 +1,7 @@
 # Evaluación de Calidad del Sistema de Etiquetado Alimentario 🍎🔬
 
+Este proyecto realiza una auditoría multidimensional del sistema alimentario actual, integrando dimensiones nutricionales (Nutri-Score), industriales (NOVA), ambientales (Eco-Score) y de mercado (MDD vs. Multinacionales). El objetivo es desentrañar la "paradoja de la información" que enfrenta el consumidor europeo en 2026.
+
 ## Estructura del Proyecto
 
 ```text
