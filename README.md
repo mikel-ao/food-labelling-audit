@@ -30,19 +30,19 @@ A través del análisis de ~10.000 productos extraídos de Open Food Facts y dat
 
 # 📊 Hallazgos Clave 
 
-* Fallo Lógico: El 23% de los productos ultraprocesados logran un Nutri-Score A o B.
+* Fallo lógico: El 23% de los productos ultraprocesados logran un Nutri-Score A o B.
 
-* Algoritmo Manipulables: El Nutri-Score es susceptible de ser "hackeado" mediante ajustes técnicos en la formulación para mejorar artificialmente la nota sin elevar necesariamente la calidad nutricional real.
+* Algoritmo manipulables: El Nutri-Score es susceptible de ser "hackeado" mediante ajustes técnicos en la formulación para mejorar artificialmente la nota sin elevar necesariamente la calidad nutricional real.
 
 * Limpieza 'Bio': El sello Bio reduce a menos de la mitad la carga de aditivos químicos.
 
-* La Rebelión de la Marca Blanca: Los productos de marca blanca contienen un 62% menos de azúcar y casi el cuádruple de fibra que los productos de grandes corporaciones.
+* La Rebelión de la marca blanca: Los productos de marca blanca contienen un 62% menos de azúcar y casi el cuádruple de fibra que los productos de grandes corporaciones.
 
 * Marcas blancas más limpias: El 57% del catálogo de las marcas blancas contiene cero aditivos vs. el 43% del catálogo de grandes corporaciones.
 
-* Erosión Nutricional: En España, los análogos cárnicos tienen una mediana de 3 aditivos, frente a los 0 aditivos que se observan en mercados más maduros como Reino Unido.
+* Erosión nutricional: En España, los análogos cárnicos tienen una mediana de 3 aditivos, frente a los 0 aditivos que se observan en mercados más maduros como Reino Unido.
 
-* Calidad vs. experiencia sensorial: En el mercado de los análogos cárnicos se observan dos vertientes: propuestas que priorizan la densidad nutricional, frente a las que centran sus esfuerzos en mimetizar la experiencia sensorial de la carne animal, sacrificando el valor nutricional del producto final.
+* Calidad vs. Experiencia sensorial: En el mercado de los análogos cárnicos se observan dos vertientes: propuestas que priorizan la densidad nutricional, frente a las que centran sus esfuerzos en mimetizar la experiencia sensorial de la carne animal, sacrificando el valor nutricional del producto final.
 
 # 📂 Estructura del Proyecto
 
@@ -65,6 +65,9 @@ foodfacts/
 # 🚀 Perspectivas Futuras
 
 El proyecto propone la evolución hacia un Nutri-Score 2.0 que utilice Inteligencia Artificial para penalizar automáticamente la complejidad química y el ultraprocesamiento. Se busca visibilizar el grado de procesamiento industrial para evitar el "maquillaje" nutricional y democratizar la salud alimentaria en Europa.
+
+# ✍️ Autor
+Mikel Añibarro Ortega | Data Science Bootcamp The Bridge (Bilbao)
 
 
 
