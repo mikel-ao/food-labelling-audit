@@ -168,9 +168,9 @@ def pipeline_figuras_h01(df, output_dir=None):
     if output_dir and not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    plot_heatmap_nova_nutriscore(df, save_path=(os.path.join(output_dir, "1_heatmap.png") if output_dir else None))
-    plot_nutriscore_regression(df, save_path=(os.path.join(output_dir, "2_regresion.png") if output_dir else None))
-    plot_paradox_comparison(df, save_path=(os.path.join(output_dir, "3_aceite_vs_cereales.png") if output_dir else None))
+    plot_heatmap_nova_nutriscore(df, save_path=(os.path.join(output_dir, "1.1_heatmap.png") if output_dir else None))
+    plot_nutriscore_regression(df, save_path=(os.path.join(output_dir, "1.2_regresion.png") if output_dir else None))
+    plot_paradox_comparison(df, save_path=(os.path.join(output_dir, "1.3_aceite_vs_cereales.png") if output_dir else None))
     
     print("✅ Análisis H01 completado.")
     
@@ -417,6 +417,12 @@ def plot_brand_additives_dist(df, save_path=None):
     plt.figure(figsize=(16, 6))
     colors = sns.color_palette("YlOrRd", n_colors=len(cat_order))
     ax = pct_dist.plot(kind='barh', stacked=True, color=colors, ax=plt.gca(), width=0.6, edgecolor='white', legend=False)
+    
+    for spine in ax.spines.values():
+        spine.set_visible(False)
+    
+    ax.set_xticks([]) 
+    ax.set_yticks([])
 
     ax.set_yticklabels([]) 
     for i, grupo in enumerate(pct_dist.index):
