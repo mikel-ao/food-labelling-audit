@@ -6,18 +6,6 @@ Este proyecto realiza una auditoría multidimensional del sistema alimentario ac
 
 A través del análisis de ~10.000 productos extraídos de Open Food Facts y datos de producción de la FAO, este trabajo utiliza técnicas de Data Science para validar si los sellos de calidad actuales reflejan la realidad biológica de los alimentos o si son vulnerables al marketing nutricional.
 
-# 💾 Tecnologías y Herramientas
-
-* Lenguaje: Python 3.11+
-  
-* Análisis de Datos: Pandas, NumPy.
-  
-* Limpieza Avanzada: ReGex (para normalización multilingüe de >2.000 variantes de países y marcas).
-  
-* Visualización: Seaborn, Matplotlib (Enfoque en mapas de calor y diagramas de barras para una visualización sencilla).
-  
-* Modelado: Regresión Lineal Múltiple (Interpretación de coeficientes $\beta$ para ingeniería inversa del Nutri-Score).
-
 # 💡 Hipótesis de Investigación
 
 * H1 (Nutri-Score vs. NOVA): El algoritmo Nutri-Score reduce la calidad de un alimento a sus macronutrientes permitiendo que productos ultraprocesados obtengan buenas calificaciones.
@@ -75,6 +63,18 @@ food-labelling-audit/
 # 🚀 Perspectivas Futuras
 
 El proyecto propone la evolución hacia un Nutri-Score 2.0 que utilice Inteligencia Artificial para penalizar automáticamente la complejidad química y el ultraprocesamiento. Se busca visibilizar el grado de procesamiento industrial para evitar el "maquillaje" nutricional y democratizar la salud alimentaria en Europa.
+
+# 💾 Tecnologías y Herramientas
+
+* Lenguaje: Python 3.11+
+  
+* Análisis de Datos: Pandas, NumPy.
+  
+* Limpieza Avanzada: ReGex (para normalización multilingüe de >2.000 variantes de países y marcas).
+  
+* Visualización: Seaborn, Matplotlib (Enfoque en mapas de calor y diagramas de barras para una visualización sencilla).
+  
+* Modelado: Regresión Lineal Múltiple (Interpretación de coeficientes $\beta$ para ingeniería inversa del Nutri-Score).
 
 # ✍️ Autor
 Mikel Añibarro Ortega | Data Science Bootcamp The Bridge (Bilbao)
