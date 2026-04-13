@@ -54,18 +54,21 @@ A través del análisis de ~10.000 productos extraídos de Open Food Facts y dat
 # 📂 Estructura del Proyecto
 
 ```text
-foodfacts/
-├── notebooks/          # Pipeline completo de los datos
-│   ├── 01_data_preprocessing.ipynb  # ReGex, unificación taxonómica y limpieza
-│   ├── 02_h01.ipynb                 # Hackeando el Nutri-Score
-│   ├── 03_h02.ipynb                 # Auditoría del segmento Bio
-│   ├── 04_h03.ipynb                 # Comparativa Marcas Blancas vs. Grandes Corporaciones
-│   └── 05_h04.ipynb                 # Análisis de análogos cárnicos por países
-├── data/               # Datasets (FAO & OpenFoodFacts)
-│   ├── raw/            # Datos originales
-│   ├── processed/      # Dataset final normalizado (foods_cleaned_2026.csv)
-│   └── txt/            # Textos extraídos para procesamiento con Regex
-├── images/             # Visualizaciones exportadas
+food-labelling-audit/
+├── src/          
+│   ├── data/  
+│   │   ├── processed/  # Dataset final normalizado (foods_cleaned.csv)
+│   │   ├── raw/        # Datasets (FAO & OpenFoodFacts)
+│   │   └── txt/        # Textos extraídos para procesamiento con Regex
+│   ├── notebooks/
+│   │   └── main.ipynb  # Cuaderno principal resumido
+│   └── utils/
+│       ├── cleaning.py # Pipeline limpieza completo
+│       └── plots.py    # Pipeline visualizaci completo
+├── outputs/               
+│   ├── plots/          # Visualizaciones exportadas
+│   ├── presentation/   # Presentación
+│   └── report/         # Memória   
 ├── README.md           # Documentación
 └── requirements.txt    # Lista de librerías
 ```
