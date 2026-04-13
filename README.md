@@ -39,7 +39,7 @@ A través del análisis de ~10.000 productos extraídos de Open Food Facts y dat
 * Limpieza 'Bio': El sello Bio reduce a menos de la mitad la carga de aditivos químicos en la mayoría de categorías.
 ![Figura 3](outputs/plots/2_3_heatmap_aditivos.png)
 
-* La Rebelión de la marca blanca: Los productos de marca blanca contienen un 62% menos de azúcar y casi el cuádruple de fibra que los productos de grandes corporaciones.
+* La Rebelión de la marca blanca: Los productos de marca blanca contienen un 60% menos de azúcar y el triple de fibra que los productos de grandes corporaciones.
 ![Figura 4](outputs/plots/3_2_perfil_nutricional.png)
 
 * Marcas blancas más limpias: El 57% del catálogo de las marcas blancas contiene cero aditivos vs. el 44% del catálogo de grandes corporaciones.
