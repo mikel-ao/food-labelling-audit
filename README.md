@@ -40,6 +40,28 @@ ultraprocesados obtengan buenas calificaciones.
 * Calidad vs. Experiencia sensorial: En el mercado de los análogos cárnicos se observan dos vertientes: propuestas que priorizan la densidad nutricional, frente a las que centran sus esfuerzos en mimetizar la experiencia sensorial de la carne animal, sacrificando el valor nutricional del producto final.
 ![Figura 7](outputs/plots/4_2_cultura_proteina.png)
 
+# 📝 Conclusiones
+
+Esta auditoría revela una fractura crítica entre las etiquetas de marketing y la realidad técnica de los alimentos. 
+
+El "Hackeo" del Nutri-Score: Al ser un algoritmo ciego al procesamiento industrial, permite que productos ultraprocesados obtengan calificaciones "A" o "B" simplemente añadiendo fibra o proteína aislada.
+
+La Limitación del Sello 'BIO': Aunque garantiza sostenibilidad y menos aditivos, no corrige una mala formulación nutricional; un producto puede ser ecológico y pobre en nutrientes a la vez.
+
+Liderazgo de las Marcas Blancas: Contra todo prejuicio, las MDD actúan como vectores de salud más honestos que las grandes multinacionales, ofreciendo etiquetas más limpias, menos azúcar y más fibra.
+
+La Paradoja Plant-based: En culturas ganaderas como la española, la alternativa vegetal prioriza el mimetismo sensorial, sacrificando la densidad proteica y aumentando la complejidad química.
+
+# 🚀 Perspectivas Futuras
+
+Guía inteligente para el consumidor: Desarrollo de un sistema de recomendación 
+por escaneo que jerarquiza alternativas basadas en el equilibrio nutricional real y 
+la reducción de aditivos químicos.
+
+Optimización estratégica para la industria: Modelos de reformulación 
+"Clean Label" que prescriben ajustes precisos para mejorar la calidad sin sacrificar
+la viabilidad tecnológica.
+
 # 📂 Estructura del Proyecto
 
 ```text
@@ -61,9 +83,6 @@ food-labelling-audit/
 ├── README.md           # Documentación
 └── requirements.txt    # Lista de librerías
 ```
-# 🚀 Perspectivas Futuras
-
-El proyecto propone la evolución hacia un Nutri-Score 2.0 que utilice Inteligencia Artificial para penalizar automáticamente la complejidad química y el ultraprocesamiento. Se busca visibilizar el grado de procesamiento industrial para evitar el "maquillaje" nutricional y democratizar la salud alimentaria en Europa.
 
 # 💾 Tecnologías y Herramientas
 
